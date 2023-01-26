@@ -8,6 +8,8 @@ mydb = mysql.connector.connect(
 )
 print(mydb.is_connected())
 
+#***********************************************************************************************
+
 cur=mydb.cursor()
 cur.execute('show databases')
 for a in cur:
