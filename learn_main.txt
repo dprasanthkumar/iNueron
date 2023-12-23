@@ -1,0 +1,4 @@
+INFO:root:30
+WARNING:root:7
+INFO:root:30
+WARNING:root:7
