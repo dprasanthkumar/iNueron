@@ -1,0 +1,85 @@
+INFO:root:this is my adddition function
+INFO:root:1
+INFO:root:2
+INFO:root:3
+INFO:root:4
+INFO:root:5
+INFO:root:6
+INFO:root:7
+INFO:root:this is my adddition function
+INFO:root:1
+INFO:root:2
+INFO:root:3
+INFO:root:4
+INFO:root:5
+INFO:root:6
+INFO:root:7
+INFO:root:this is my adddition function
+INFO:root:1
+INFO:root:2
+INFO:root:3
+INFO:root:4
+INFO:root:5
+INFO:root:6
+INFO:root:7
+INFO:root:None
+INFO:root:this is my adddition function
+INFO:root:1
+INFO:root:2
+INFO:root:3
+INFO:root:4
+INFO:root:5
+INFO:root:6
+INFO:root:7
+INFO:root:None
+-2023-12-23 23:18:00,279 -hw.py
+-2023-12-23 23:18:00,279 -hw.py
+-2023-12-23 23:18:00,279 -hw.py
+-2023-12-23 23:18:00,279 -hw.py
+-2023-12-23 23:18:00,279 -hw.py
+-2023-12-23 23:18:00,281 -hw.py
+-2023-12-23 23:18:00,281 -hw.py
+-2023-12-23 23:18:00,281 -hw.py
+-2023-12-23 23:18:00,282 -hw.py
+-2023-12-23 23:18:22,927 -hw.py -this is my adddition function
+-2023-12-23 23:18:22,927 -hw.py -1
+-2023-12-23 23:18:22,927 -hw.py -2
+-2023-12-23 23:18:22,927 -hw.py -3
+-2023-12-23 23:18:22,927 -hw.py -4
+-2023-12-23 23:18:22,927 -hw.py -5
+-2023-12-23 23:18:22,927 -hw.py -6
+-2023-12-23 23:18:22,927 -hw.py -7
+-2023-12-23 23:18:22,927 -hw.py -None
+-2023-12-23 23:20:49,792 -hw.py -this is my adddition function
+-2023-12-23 23:20:49,793 -hw.py -1
+-2023-12-23 23:20:49,793 -hw.py -2
+-2023-12-23 23:20:49,793 -hw.py -3
+-2023-12-23 23:20:49,793 -hw.py -4
+-2023-12-23 23:20:49,793 -hw.py -5
+-2023-12-23 23:20:49,793 -hw.py -6
+-2023-12-23 23:20:49,793 -hw.py -7
+-2023-12-23 23:20:49,793 -hw.py -None
+-2023-12-23 23:21:44,015 -hw.py -this is my adddition function
+-2023-12-23 23:21:44,015 -hw.py -1
+-2023-12-23 23:21:44,015 -hw.py -0
+-2023-12-23 23:21:44,015 -hw.py -2
+-2023-12-23 23:21:44,015 -hw.py -1
+-2023-12-23 23:21:44,015 -hw.py -3
+-2023-12-23 23:21:44,015 -hw.py -3
+-2023-12-23 23:21:44,015 -hw.py -4
+-2023-12-23 23:21:44,015 -hw.py -6
+-2023-12-23 23:21:44,015 -hw.py -5
+-2023-12-23 23:21:44,015 -hw.py -10
+-2023-12-23 23:21:44,015 -hw.py -6
+-2023-12-23 23:21:44,015 -hw.py -15
+-2023-12-23 23:21:44,015 -hw.py -7
+-2023-12-23 23:21:44,015 -hw.py -21
+-2023-12-23 23:22:04,554 -hw.py -this is my adddition function
+-2023-12-23 23:22:04,554 -hw.py -1
+-2023-12-23 23:22:04,554 -hw.py -2
+-2023-12-23 23:22:04,554 -hw.py -3
+-2023-12-23 23:22:04,554 -hw.py -4
+-2023-12-23 23:22:04,554 -hw.py -5
+-2023-12-23 23:22:04,554 -hw.py -6
+-2023-12-23 23:22:04,554 -hw.py -7
+-2023-12-23 23:22:04,554 -hw.py -28
