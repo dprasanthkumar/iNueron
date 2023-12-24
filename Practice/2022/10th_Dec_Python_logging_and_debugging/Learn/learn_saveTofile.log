@@ -1,0 +1,30 @@
+2023-12-24 18:19:39,500:INFO:End of saveToFile Program
+2023-12-24 18:19:39,502:DEBUG:########################
+2023-12-24 18:20:20,301:INFO:End of saveToFile Program
+2023-12-24 18:20:20,301:DEBUG:########################
+2023-12-24 18:20:29,507:INFO:End of saveToFile Program
+2023-12-24 18:20:29,507:DEBUG:########################
+2023-12-24 18:20:29,507:DEBUG:Start of employee program
+2023-12-24 18:20:29,507:DEBUG:checking name "imran"....
+2023-12-24 18:20:29,509:DEBUG:No data found
+2023-12-24 18:20:29,509:DEBUG:Saving details of imran...
+2023-12-24 18:20:29,509:DEBUG:End of employee program
+2023-12-24 18:20:29,512:DEBUG:######################
+2023-12-24 18:20:40,623:INFO:End of saveToFile Program
+2023-12-24 18:20:40,623:DEBUG:########################
+2023-12-24 18:21:06,013:INFO:End of saveToFile Program
+2023-12-24 18:21:06,013:DEBUG:########################
+2023-12-24 18:21:06,013:DEBUG:Start of employee program
+2023-12-24 18:21:06,013:DEBUG:checking name "imran"....
+2023-12-24 18:21:06,026:ERROR:Name: "imran" already exists
+2023-12-24 18:21:06,026:CRITICAL:Employee check failed
+2023-12-24 18:21:06,026:DEBUG:End of employee program
+2023-12-24 18:21:06,026:DEBUG:######################
+2023-12-24 18:21:13,023:INFO:End of saveToFile Program
+2023-12-24 18:21:13,023:DEBUG:########################
+2023-12-24 18:21:13,023:DEBUG:Start of employee program
+2023-12-24 18:21:13,023:DEBUG:checking name "imran"....
+2023-12-24 18:21:13,023:ERROR:Name: "imran" already exists
+2023-12-24 18:21:13,023:CRITICAL:Employee check failed
+2023-12-24 18:21:13,023:DEBUG:End of employee program
+2023-12-24 18:21:13,023:DEBUG:######################
