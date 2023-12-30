@@ -8,3 +8,43 @@
 2023-12-26 13:21:28,435:DEBUG:Saving details of imran...
 2023-12-26 13:21:28,436:DEBUG:End of employee program
 2023-12-26 13:21:28,436:DEBUG:######################
+2023-12-26 21:51:52,831:INFO:End of saveToFile Program
+2023-12-26 21:51:52,834:DEBUG:########################
+2023-12-26 21:51:52,834:DEBUG:Start of employee program
+2023-12-26 21:51:52,834:DEBUG:checking name "imran"....
+2023-12-26 21:51:52,834:ERROR:Name: "imran" already exists
+2023-12-26 21:51:52,834:CRITICAL:Employee check failed
+2023-12-26 21:51:52,834:DEBUG:End of employee program
+2023-12-26 21:51:52,834:DEBUG:######################
+2023-12-28 17:08:29,777:INFO:End of saveToFile Program
+2023-12-28 17:08:29,777:DEBUG:########################
+2023-12-28 17:08:29,777:DEBUG:Start of employee program
+2023-12-28 17:08:29,777:DEBUG:checking name "imran"....
+2023-12-28 17:08:29,792:ERROR:Name: "imran" already exists
+2023-12-28 17:08:29,792:CRITICAL:Employee check failed
+2023-12-28 17:08:29,792:DEBUG:End of employee program
+2023-12-28 17:08:29,792:DEBUG:######################
+2023-12-28 17:09:00,641:INFO:End of saveToFile Program
+2023-12-28 17:09:00,641:DEBUG:########################
+2023-12-28 17:09:00,642:DEBUG:Start of employee program
+2023-12-28 17:09:00,642:DEBUG:checking name "imran"....
+2023-12-28 17:09:00,642:ERROR:Name: "imran" already exists
+2023-12-28 17:09:00,642:CRITICAL:Employee check failed
+2023-12-28 17:09:00,642:DEBUG:End of employee program
+2023-12-28 17:09:00,642:DEBUG:######################
+2023-12-28 17:09:10,576:INFO:End of saveToFile Program
+2023-12-28 17:09:10,576:DEBUG:########################
+2023-12-28 17:09:10,576:DEBUG:Start of employee program
+2023-12-28 17:09:10,576:DEBUG:checking name "imran"....
+2023-12-28 17:09:10,576:ERROR:Name: "imran" already exists
+2023-12-28 17:09:10,576:CRITICAL:Employee check failed
+2023-12-28 17:09:10,576:DEBUG:End of employee program
+2023-12-28 17:09:10,576:DEBUG:######################
+2023-12-28 17:10:20,319:INFO:End of saveToFile Program
+2023-12-28 17:10:20,319:DEBUG:########################
+2023-12-28 17:10:20,320:DEBUG:Start of employee program
+2023-12-28 17:10:20,320:DEBUG:checking name "imran"....
+2023-12-28 17:10:20,320:ERROR:Name: "imran" already exists
+2023-12-28 17:10:20,320:CRITICAL:Employee check failed
+2023-12-28 17:10:20,320:DEBUG:End of employee program
+2023-12-28 17:10:20,320:DEBUG:######################
