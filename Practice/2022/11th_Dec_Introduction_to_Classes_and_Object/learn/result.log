@@ -1,20 +1,7 @@
-unsupported operand type(s) for +: 'int' and 'str'
-1
-unsupported operand type(s) for +: 'int' and 'str'
-unsupported operand type(s) for +: 'int' and 'str'
-unsupported operand type(s) for +: 'int' and 'str'
-unsupported operand type(s) for +: 'int' and 'str'
-unsupported operand type(s) for +: 'int' and 'str'
-1
-1
-1
-2023-12-30 23:34:53,804 -__main__ - ERROR -you will get 1500 discount for dresses then the remaining balnce is: 3500 
 2023-12-30 23:34:53,804 -__main__ - ERROR -you will get 1500 discount for dresses then the remaining balnce is: 3500 
 2023-12-30 23:34:53,804 -__main__ - ERROR -you will get 1500 discount for dresses then the remaining balnce is: 3500 
 2023-12-30 23:34:53,997 -__main__ - ERROR -you will get 500 discount for dresses then the remaining balance is: 4500 
 2023-12-30 23:34:53,997 -__main__ - ERROR -you will get 500 discount for dresses then the remaining balance is: 4500 
-2023-12-30 23:34:53,997 -__main__ - ERROR -you will get 500 discount for dresses then the remaining balance is: 4500 
-2023-12-30 23:34:55,160 -__main__ - ERROR -no discount
 2023-12-30 23:34:55,160 -__main__ - ERROR -no discount
 2023-12-30 23:34:55,160 -__main__ - ERROR -no discount
 2023-12-30 23:36:12,413 -__main__ - ERROR -you will get 1500 discount for dresses then the remaining balnce is: 3500 
